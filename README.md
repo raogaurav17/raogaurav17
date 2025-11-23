@@ -1,10 +1,10 @@
-<h1 style="color:#7F5AF0; font-weight:800; text-align:center;">Hi, I'm Gaurav</h1>
+<p align="center"><img src="https://img.shields.io/badge/-Hi%20I'm%20Gaurav-7F5AF0?style=for-the-badge" /></p>
 
 <p style="color:#94A1B2; font-style:italic;">I like building things that learn, adapt, and scale.</p> Some of them classify medical images, some generate new ones, some crunch data across clusters, and some just quietly do their job in the background. I enjoy the whole pipeline — from experimenting with models to wiring them into systems that can actually be used.
 
 ---
 
-<h2 style="color:#EF4565; font-weight:700;">What I’m into right now</h2>
+![](https://img.shields.io/badge/-What%20I'm%20into%20right%20now-EF4565?style=for-the-badge)
 - Training deep learning models and pushing them into real applications.
 - Building lightweight, fast APIs for ML inference.
 - Playing with transformers, diffusion ideas, and generative tricks.
@@ -13,7 +13,7 @@
 
 ---
 
-<h2 style="color:#2CB67D; font-weight:700;">Tools that show up a lot in my work</h2>
+![](https://img.shields.io/badge/-Tools%20that%20show%20up%20a%20lot%20in%20my%20work-2CB67D?style=for-the-badge)
 
 ### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -56,7 +56,7 @@ These change depending on the project, but these are the ones I reach for most o
 
 ---
 
-<h2 style="color:#3A86FF; font-weight:700;">Things I’ve been building lately</h2>
+![](https://img.shields.io/badge/-Things%20I've%20been%20building%20lately-3A86FF?style=for-the-badge)
 
 ### Diabetic Retinopathy Classification
 A vision model built with Swin Transformer and trained on a large retinal dataset. The fun part wasn’t just the model — it was wiring everything into a full-stack app: a fast Flask inference server paired with a clean React interface.
@@ -84,12 +84,12 @@ I like making systems people can actually touch, not just notebooks that run onc
 
 ---
 
-<h2 style="color:#FFB627; font-weight:700;">Other stuff</h2>
+![](https://img.shields.io/badge/-Other%20stuff-FFB627?style=for-the-badge)
 I’ve solved a decent number of DSA problems, usually late at night when I should be doing something else. I also experiment a lot with distributed systems — Spark clusters, custom Docker networks, that kind of playground.
 
 ---
 
-<h2 style="color:#E53170; font-weight:700;">Find me elsewhere</h2>
+![](https://img.shields.io/badge/-Find%20me%20elsewhere-E53170?style=for-the-badge)  
 **Email:** ygaurav.ml@gmail.com  
 **GitHub:** https://github.com/raogaurav17  
 **LinkedIn:** https://www.linkedin.com/in/ydv17gaurav
