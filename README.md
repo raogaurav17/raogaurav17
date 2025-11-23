@@ -1,4 +1,5 @@
-<p align="center"><img src="https://img.shields.io/badge/-Hi%20I'm%20Gaurav-7F5AF0?style=for-the-badge" /></p>
+<h1 align="center">Hi, I'm Gaurav😉👀</h1>
+<h3 align="center">A passionate Data Enthusiast and MLOps Engineer</h3>
 
 <p style="color:#94A1B2; font-style:italic;">I like building things that learn, adapt, and scale.</p> Some of them classify medical images, some generate new ones, some crunch data across clusters, and some just quietly do their job in the background. I enjoy the whole pipeline — from experimenting with models to wiring them into systems that can actually be used.
 
