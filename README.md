@@ -1,10 +1,10 @@
-# Hi, I'm Gaurav
+<h1 style="color:#7F5AF0; font-weight:800; text-align:center;">Hi, I'm Gaurav</h1>
 
-I like building things that learn, adapt, and scale. Some of them classify medical images, some generate new ones, some crunch data across clusters, and some just quietly do their job in the background. I enjoy the whole pipeline — from experimenting with models to wiring them into systems that can actually be used.
+<p style="color:#94A1B2; font-style:italic;">I like building things that learn, adapt, and scale.</p> Some of them classify medical images, some generate new ones, some crunch data across clusters, and some just quietly do their job in the background. I enjoy the whole pipeline — from experimenting with models to wiring them into systems that can actually be used.
 
 ---
 
-## What I’m into right now
+<h2 style="color:#EF4565; font-weight:700;">What I’m into right now</h2>
 - Training deep learning models and pushing them into real applications.
 - Building lightweight, fast APIs for ML inference.
 - Playing with transformers, diffusion ideas, and generative tricks.
@@ -13,50 +13,50 @@ I like building things that learn, adapt, and scale. Some of them classify medic
 
 ---
 
-## Tools that show up a lot in my work
+<h2 style="color:#2CB67D; font-weight:700;">Tools that show up a lot in my work</h2>
 
 ### Languages
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 ### Machine Learning & Computer Vision
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
 ### MLOps & DevOps
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
 
 ### Big Data & Databases
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ### Web Development
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 These change depending on the project, but these are the ones I reach for most often.
 
 ---
 
-## Things I’ve been building lately
+<h2 style="color:#3A86FF; font-weight:700;">Things I’ve been building lately</h2>
 
 ### Diabetic Retinopathy Classification
 A vision model built with Swin Transformer and trained on a large retinal dataset. The fun part wasn’t just the model — it was wiring everything into a full-stack app: a fast Flask inference server paired with a clean React interface.
@@ -84,12 +84,12 @@ I like making systems people can actually touch, not just notebooks that run onc
 
 ---
 
-## Other stuff
+<h2 style="color:#FFB627; font-weight:700;">Other stuff</h2>
 I’ve solved a decent number of DSA problems, usually late at night when I should be doing something else. I also experiment a lot with distributed systems — Spark clusters, custom Docker networks, that kind of playground.
 
 ---
 
-## Find me elsewhere
+<h2 style="color:#E53170; font-weight:700;">Find me elsewhere</h2>
 **Email:** ygaurav.ml@gmail.com  
 **GitHub:** https://github.com/raogaurav17  
 **LinkedIn:** https://www.linkedin.com/in/ydv17gaurav
